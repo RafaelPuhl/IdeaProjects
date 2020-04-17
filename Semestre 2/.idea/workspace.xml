@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YggAxmyLPJoNsi89puJ4kPsfKF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Frente de Caixa de Loja" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AppSort">
+    <configuration name="AppPiggyBankExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.AppPiggyBankExtra" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.AppSort" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BublleSortOtimizado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.BublleSortOtimizado" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PesquisaBinaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.PesquisaBinaria" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.Sorts" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppSort" />
+        <item itemvalue="Application.AppPiggyBankExtra" />
+        <item itemvalue="Application.BublleSortOtimizado" />
+        <item itemvalue="Application.Sorts" />
+        <item itemvalue="Application.PesquisaBinaria" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="" />
+      <created>1583369511596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583369511596</updated>
+      <workItem from="1583369515929" duration="1937000" />
+      <workItem from="1583455729072" duration="3018000" />
+      <workItem from="1583525138353" duration="951000" />
+      <workItem from="1583529077863" duration="348000" />
+      <workItem from="1583531968848" duration="4023000" />
+      <workItem from="1583632436217" duration="2509000" />
+      <workItem from="1583700333412" duration="837000" />
+      <workItem from="1583701211874" duration="761000" />
+      <workItem from="1583702254318" duration="2223000" />
+      <workItem from="1583711640266" duration="2561000" />
+      <workItem from="1583714251949" duration="39000" />
+      <workItem from="1583720879626" duration="152000" />
+      <workItem from="1583721180917" duration="866000" />
+      <workItem from="1583792148045" duration="4664000" />
+      <workItem from="1583965205777" duration="4528000" />
+      <workItem from="1584130923117" duration="822000" />
+      <workItem from="1584138722893" duration="2835000" />
+      <workItem from="1584146093535" duration="15000" />
+      <workItem from="1584284595877" duration="2642000" />
+      <workItem from="1584290173545" duration="1191000" />
+      <workItem from="1584291473588" duration="68000" />
+      <workItem from="1584321699811" duration="1295000" />
+      <workItem from="1584323013223" duration="85000" />
+      <workItem from="1584493812154" duration="136000" />
+      <workItem from="1584493979039" duration="81000" />
+      <workItem from="1585001984300" duration="3310000" />
+      <workItem from="1585010918015" duration="631000" />
+      <workItem from="1585091198001" duration="218000" />
+      <workItem from="1585091493232" duration="277000" />
+      <workItem from="1585092422978" duration="5679000" />
+      <workItem from="1585173884961" duration="10899000" />
+      <workItem from="1585353499591" duration="15000" />
+      <workItem from="1585508878992" duration="18507000" />
+      <workItem from="1585606684905" duration="4507000" />
+      <workItem from="1585613700868" duration="2323000" />
+      <workItem from="1585618923857" duration="2541000" />
+      <workItem from="1585697273028" duration="4644000" />
+      <workItem from="1585778903876" duration="6612000" />
+      <workItem from="1585801981000" duration="701000" />
+      <workItem from="1585871647577" duration="1215000" />
+      <workItem from="1586003296836" duration="8040000" />
+      <workItem from="1586032083927" duration="4530000" />
+      <workItem from="1586041825186" duration="2777000" />
+      <workItem from="1586095523484" duration="91000" />
+      <workItem from="1586215947736" duration="237000" />
+      <workItem from="1586392420759" duration="2638000" />
+      <workItem from="1586476960638" duration="16000" />
+      <workItem from="1586646591486" duration="426000" />
+      <workItem from="1586647093349" duration="152000" />
+      <workItem from="1586656279097" duration="617000" />
+      <workItem from="1586698575655" duration="22000" />
+      <workItem from="1586698611085" duration="160000" />
+      <workItem from="1586698783124" duration="347000" />
+      <workItem from="1586699190623" duration="55000" />
+      <workItem from="1586699255294" duration="32000" />
+      <workItem from="1586825333725" duration="1419000" />
+      <workItem from="1586900945920" duration="3531000" />
+      <workItem from="1586905248833" duration="690000" />
+      <workItem from="1586908790777" duration="386000" />
+      <workItem from="1586909198511" duration="744000" />
+      <workItem from="1586989046449" duration="27000" />
+      <workItem from="1586995685959" duration="4035000" />
+      <workItem from="1587155735959" duration="2631000" />
+      <workItem from="1587161154452" duration="328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/IdeaProjects" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583792993299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583792993299" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1586902398836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586902398836" />
+    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585619793900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585619793900" />
+    <state x="410" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583797871078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1583797871078" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587155773108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587155773108" />
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1587000283736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587000283736" />
+    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1587000283735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587000283735" />
+    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1587000283735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587000283735" />
+    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1587000283736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587000283736" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585525095417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585525095417" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585525095417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585525095417" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585525095416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585525095416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585525095417">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585525095417" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1587161477344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587161477344" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585008247407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1585008247407" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586476961544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586476961544" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585612368461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1585612368461" />
+    <state x="209" y="32" key="new project wizard" timestamp="1585873193696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585873193696" />
+    <state x="445" y="125" width="700" height="530" key="recent.locations.popup" timestamp="1585612357421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="125" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1585612357421" />
+    <state x="475" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1585096945924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="40" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585096945924" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1585612229083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585612229083" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586009811308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586009811308" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Ex2Reaquecimento.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jrt://C:/Program Files/JetBrains/IntelliJ IDEA 2019.2.4/jbr!/java.base/java/lang/Object.class</url>
+          <line>16</line>
+          <properties class="java.lang.Object" method="getClass" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
