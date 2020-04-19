@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="" />
+    <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1YggAxmyLPJoNsi89puJ4kPsfKF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -216,6 +218,8 @@
       <workItem from="1586995685959" duration="4035000" />
       <workItem from="1587155735959" duration="2631000" />
       <workItem from="1587161154452" duration="328000" />
+      <workItem from="1587162294094" duration="14000" />
+      <workItem from="1587311883993" duration="26000" />
     </task>
     <servers />
   </component>
@@ -246,10 +250,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="410" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1583797871078" />
-    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587155773108">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1587311907993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587155773108" />
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587311907993" />
     <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1587000283736">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
