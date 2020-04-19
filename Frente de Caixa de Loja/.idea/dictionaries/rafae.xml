@@ -1,16 +1,20 @@
 <component name="ProjectDictionaryState">
   <dictionary name="rafae">
     <words>
+      <w>abrir</w>
       <w>arquivo</w>
+      <w>atualizacao</w>
       <w>baixa</w>
       <w>cadastra</w>
       <w>caixa</w>
       <w>codigo</w>
+      <w>comando</w>
       <w>desconto</w>
       <w>descricao</w>
       <w>estoque</w>
       <w>frente</w>
       <w>imposto</w>
+      <w>invalido</w>
       <w>itens</w>
       <w>numero</w>
       <w>preco</w>
@@ -18,8 +22,10 @@
       <w>produtos</w>
       <w>quantidade</w>
       <w>reposicao</w>
+      <w>sair</w>
       <w>unitario</w>
       <w>venda</w>
+      <w>vendas</w>
     </words>
   </dictionary>
 </component>
