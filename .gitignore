@@ -1,15 +1,21 @@
 # Compiled class file
 *.class
+*.xml
+*.kotlin_module
 
 
 # Log file
 *.log
+*.xml
+*.kotlin_module
 
 # BlueJ files
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+*.xml
+*.kotlin_module
 
 # Package Files #
 *.jar
@@ -20,6 +26,7 @@
 *.tar.gz
 *.rar
 *.xml
+*.kotlin_module
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
