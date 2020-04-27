@@ -20,7 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppRecursao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Recursao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/App_Sobrecarga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/AppPassagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Economy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Executive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Premier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Geometria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/Ponto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/rafae.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/rafae.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +103,35 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppSort">
-    <configuration name="AppPiggyBankExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.AppPiggyBankExtra" />
+  <component name="RunManager" selected="Application.AppPassagem">
+    <configuration name="AppPassagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.ErancaEPolimorfismo.AppPassagem" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.ErancaEPolimorfismo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppRecursao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.AppRecursao" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App_Sobrecarga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.App_Sobrecarga" />
       <module name="Semestre 2" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.AppSort" />
+    <configuration name="Exer4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.Exer4" />
       <module name="Semestre 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
+          <option name="PATTERN" value="POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,38 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BublleSortOtimizado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.BublleSortOtimizado" />
+    <configuration name="Exer6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.Exer6" />
       <module name="Semestre 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PesquisaBinaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.PesquisaBinaria" />
-      <module name="Semestre 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sorts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.Sorts" />
-      <module name="Semestre 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
+          <option name="PATTERN" value="POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppSort" />
-        <item itemvalue="Application.AppPiggyBankExtra" />
-        <item itemvalue="Application.BublleSortOtimizado" />
-        <item itemvalue="Application.Sorts" />
-        <item itemvalue="Application.PesquisaBinaria" />
+        <item itemvalue="Application.AppPassagem" />
+        <item itemvalue="Application.AppRecursao" />
+        <item itemvalue="Application.App_Sobrecarga" />
+        <item itemvalue="Application.Exer6" />
+        <item itemvalue="Application.Exer4" />
       </list>
     </recent_temporary>
   </component>
@@ -246,6 +256,16 @@
       <workItem from="1587162294094" duration="14000" />
       <workItem from="1587311883993" duration="26000" />
       <workItem from="1587312624008" duration="308000" />
+      <workItem from="1587334523312" duration="1228000" />
+      <workItem from="1587386488465" duration="6743000" />
+      <workItem from="1587424293981" duration="443000" />
+      <workItem from="1587515343036" duration="1696000" />
+      <workItem from="1587593773078" duration="4150000" />
+      <workItem from="1587936498255" duration="2328000" />
+      <workItem from="1587944213830" duration="3778000" />
+      <workItem from="1588025918245" duration="1270000" />
+      <workItem from="1588027204077" duration="3635000" />
+      <workItem from="1588030863026" duration="44000" />
     </task>
     <servers />
   </component>
@@ -262,6 +282,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -275,10 +296,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1583792993299" />
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1586902398836">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1588030299359">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586902398836" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588030299359" />
     <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585619793900">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -291,38 +312,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587311907993" />
-    <state width="1493" height="202" key="GridCell.Tab.0.bottom" timestamp="1587312786261">
+    <state width="723" height="74" key="GridCell.Tab.0.bottom" timestamp="1588030841391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587312786261" />
-    <state width="1493" height="202" key="GridCell.Tab.0.center" timestamp="1587312786261">
+    <state width="723" height="74" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588030841391" />
+    <state width="723" height="74" key="GridCell.Tab.0.center" timestamp="1588030841391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587312786261" />
-    <state width="1493" height="202" key="GridCell.Tab.0.left" timestamp="1587312786260">
+    <state width="723" height="74" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588030841391" />
+    <state width="723" height="74" key="GridCell.Tab.0.left" timestamp="1588030841391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587312786260" />
-    <state width="1493" height="202" key="GridCell.Tab.0.right" timestamp="1587312786261">
+    <state width="723" height="74" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588030841391" />
+    <state width="723" height="74" key="GridCell.Tab.0.right" timestamp="1588030841391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587312786261" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1585525095417">
+    <state width="723" height="74" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588030841391" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587605636063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585525095417" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1585525095417">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587605636063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1587605636063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585525095417" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1585525095416">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587605636063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1587605636063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585525095416" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1585525095417">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587605636063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1587605636063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585525095417" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587605636063" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1587161477344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -373,6 +394,22 @@
           <line>16</line>
           <properties class="java.lang.Object" method="getClass" />
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/POO/App_Sobrecarga.java</url>
+          <line>3</line>
+          <properties class="POO.App_Sobrecarga" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppRecursao.java</url>
+          <line>3</line>
+          <properties class="AlgoritimoEstrutura1.AppRecursao" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
