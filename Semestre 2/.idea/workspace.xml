@@ -20,17 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/AppProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Eletrodomestico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Eletropesado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Telefonia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppRecursao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppRecursao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Recursao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Recursao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Sorts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MoveRover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MoveRover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Rover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Rover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/AppProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/AppProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Telefonia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/POO/ErancaEPolimorfismo/Telefonia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +97,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppProduto">
+  <component name="RunManager" selected="Application.AppSort">
     <configuration name="AppPiggyBankExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POO.AppPiggyBankExtra" />
       <module name="Semestre 2" />
@@ -171,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppSort" />
         <item itemvalue="Application.AppProduto" />
         <item itemvalue="Application.AppRecursao" />
         <item itemvalue="Application.MoveRover" />
         <item itemvalue="Application.AppPiggyBankExtra" />
-        <item itemvalue="Application.AppSort" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +270,10 @@
       <workItem from="1588362535529" duration="510000" />
       <workItem from="1588386780664" duration="166000" />
       <workItem from="1588386961584" duration="2034000" />
-      <workItem from="1588389755849" duration="787000" />
+      <workItem from="1588389755849" duration="1456000" />
+      <workItem from="1588536369820" duration="958000" />
+      <workItem from="1588631665015" duration="1344000" />
+      <workItem from="1588640019592" duration="359000" />
     </task>
     <servers />
   </component>
@@ -323,22 +320,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588113814096" />
-    <state width="1493" height="106" key="GridCell.Tab.0.bottom" timestamp="1588389735046">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1588537328081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588389735046" />
-    <state width="1493" height="106" key="GridCell.Tab.0.center" timestamp="1588389735046">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588537328081" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1588537328081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588389735046" />
-    <state width="1493" height="106" key="GridCell.Tab.0.left" timestamp="1588389735046">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588537328081" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1588537328081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588389735046" />
-    <state width="1493" height="106" key="GridCell.Tab.0.right" timestamp="1588389735046">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588537328081" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1588537328081">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="106" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588389735046" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588537328081" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587605636063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -367,6 +364,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586476961544" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588390640222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1588390640222" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1585612368461">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

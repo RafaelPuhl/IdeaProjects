@@ -1,7 +1,7 @@
 package POO.ErancaEPolimorfismo;
 
 public class Telefonia extends Produto {
-    private boolean importado;
+    private boolean importado = true;
 
     public Telefonia(int codigo, String descricao, double preco) {
         super(codigo, descricao, preco);

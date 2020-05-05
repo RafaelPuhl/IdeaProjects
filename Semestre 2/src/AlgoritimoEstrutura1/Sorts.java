@@ -1,5 +1,7 @@
 package AlgoritimoEstrutura1;
 
+import org.jetbrains.annotations.NotNull;
+
 class Sorts {
     ContagemInstru c = new ContagemInstru();
 
@@ -56,8 +58,10 @@ class Sorts {
         return vetor;
     }
 
-    public void mergeSort(int[] v) {
+    public int[] mergeSort(int[] v) {
         mergeSort(v, 0, v.length - 1);
+        c.contInstru(1);
+        return v;
     }
 
     public void mergeSort(int[] v, int inicio, int fim) {
@@ -66,7 +70,9 @@ class Sorts {
             mergeSort(v, inicio, meio);
             mergeSort(v, meio + 1, fim);
             merge(v, inicio, meio, fim);
+            c.contInstru(7);
         }
+        c.contInstru(1);
     }
 
     private void merge(int[] v, int inicio, int meio, int fim) {
@@ -86,6 +92,44 @@ class Sorts {
                 } else v[k] = R[iR++];
             } else v[k] = L[iL++];
         }
+    }
+
+    private int[] quicksort(int @NotNull [] v){
+        int low, high;
+        low = 0;
+        high = v.length - 1;
+        return quicksort(v,low,high);
+    }
+
+    private int[] quicksort(int[] v, int low, int high) {
+        int pivot;
+        if ((high - low) > 0) {
+            pivot = partition(v, low, high);
+            quicksort(v, low, pivot - 1);
+            quicksort(v, pivot + 1, high);
+        }
+        return v;
+    }
+
+    private int partition(int[] v, int low, int high) {
+        int i, p, firsthigh;
+        firsthigh = low;
+        p = high;
+        for (i = low; i < high; i++)
+            if (v[i] < v[p]) {
+                swap(v, i, firsthigh);
+                firsthigh = firsthigh + 1;
+            }
+        swap(v, p, firsthigh);
+        return firsthigh;
+    }
+
+    public void swap(int[] v, int p, int f){
+        int aux;
+        aux = v[p];
+        v[p] = v[f];
+        v[f] = aux;
+
     }
 
     public ContagemInstru retornaContagem() {

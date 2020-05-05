@@ -3,6 +3,7 @@ package AlgoritimoEstrutura1;
 public class AppSort {
     public static void main(String[] args) {
         new GeraVetor();
+        Sorts sort = new Sorts();
         int[] vetor = GeraVetor.geraVetorAleatorio(5);
         int[] vetorAux;
         ContagemInstru c;
@@ -12,7 +13,6 @@ public class AppSort {
         }
         System.out.println();
         System.out.println("--------------------------------------------------------");
-        Sorts sort = new Sorts();
         ///////////////////////////////////////////////////////////////////////////////////
         vetorAux = vetor.clone();
         vetorAux = sort.bubbleNormalVersion(vetorAux);
@@ -50,6 +50,21 @@ public class AppSort {
         System.out.println("--------------------------------------------------------");
         sort.zeraContagem();
         ///////////////////////////////////////////////////////////////////////////////////
+        vetorAux = vetor.clone();
+        vetorAux = sort.mergeSort(vetorAux);
+        System.out.println("MergeSort Normal:");
+        for (int v4: vetorAux) {
+            System.out.print(v4 + " | ");
+        }
+        c = sort.retornaContagem();
+        System.out.println();
+        System.out.println("Interacoes: " + c.getInteracoes() + " Instrucoes: " + c.getInstrucoes());
+        System.out.println("--------------------------------------------------------");
+        sort.zeraContagem();
+        ///////////////////////////////////////////////////////////////////////////////////
+        vetorAux = vetor.clone();
+        vetorAux = sort.
 
+        ///////////////////////////////////////////////////////////////////////////////////
     }
 }
