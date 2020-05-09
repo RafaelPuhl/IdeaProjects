@@ -31,6 +31,7 @@ class Sorts {
             valida = false;
             c.contInstru(2);
             for (int i = 0; i < vet2.length - 1; i++) {
+                c.contInte(1);
                 if (vet2[i] > vet2[i + 1]) {
                     int aux;
                     aux = vet2[i];
@@ -50,11 +51,15 @@ class Sorts {
             chave = vetor[j];
             i = j - 1;
             while ((i >= 0) && (vetor[i] > chave)) {
+                c.contInte(1);
                 vetor[i + 1] = vetor[i];
                 i = i - 1;
+                c.contInstru(4);
             }
             vetor[i + 1] = chave;
+            c.contInstru(9);
         }
+        c.contInstru(1);
         return vetor;
     }
 
@@ -84,29 +89,37 @@ class Sorts {
         System.arraycopy(v, meio + 1, R, 0, nR);
         int iL = 0;
         int iR = 0;
+        c.contInstru(12);
         for (int k = inicio; k <= fim; k++) {
+            c.contInte(1);
             if (iR < nR) {
+                c.contInstru(1);
                 if (iL < nL) {
+                    c.contInstru(4);
                     if (L[iL] < R[iR]) v[k] = L[iL++];
                     else v[k] = R[iR++];
                 } else v[k] = R[iR++];
             } else v[k] = L[iL++];
+            c.contInstru(5);
         }
     }
 
-    private int[] quicksort(int @NotNull [] v){
+    public int[] quicksort(int[] v){
         int low, high;
         low = 0;
         high = v.length - 1;
+        c.contInstru(4);
         return quicksort(v,low,high);
     }
 
     private int[] quicksort(int[] v, int low, int high) {
         int pivot;
+        c.contInstru(2);
         if ((high - low) > 0) {
             pivot = partition(v, low, high);
             quicksort(v, low, pivot - 1);
             quicksort(v, pivot + 1, high);
+            c.contInstru(4);
         }
         return v;
     }
@@ -115,12 +128,17 @@ class Sorts {
         int i, p, firsthigh;
         firsthigh = low;
         p = high;
+        c.contInstru(4);
         for (i = low; i < high; i++)
+            c.contInte(1);
+            c.contInstru(4);
             if (v[i] < v[p]) {
                 swap(v, i, firsthigh);
                 firsthigh = firsthigh + 1;
+                c.contInstru(3);
             }
         swap(v, p, firsthigh);
+            c.contInstru(1);
         return firsthigh;
     }
 
@@ -129,6 +147,7 @@ class Sorts {
         aux = v[p];
         v[p] = v[f];
         v[f] = aux;
+        c.contInstru(3);
 
     }
 

@@ -4,7 +4,7 @@ public class AppSort {
     public static void main(String[] args) {
         new GeraVetor();
         Sorts sort = new Sorts();
-        int[] vetor = GeraVetor.geraVetorAleatorio(5);
+        int[] vetor = GeraVetor.geraVetorAleatorio(10000);
         int[] vetorAux;
         ContagemInstru c;
         System.out.println("Vetor Aleatorio: ");
@@ -40,7 +40,7 @@ public class AppSort {
         ///////////////////////////////////////////////////////////////////////////////////
         vetorAux = vetor.clone();
         vetorAux = sort.insertNormalVersion(vetorAux);
-        System.out.println("InsertSort Otimizado:");
+        System.out.println("InsertSort:");
         for (int v3 : vetorAux) {
             System.out.print(v3 + " | ");
         }
@@ -63,8 +63,16 @@ public class AppSort {
         sort.zeraContagem();
         ///////////////////////////////////////////////////////////////////////////////////
         vetorAux = vetor.clone();
-        vetorAux = sort.
-
+        vetorAux = sort.quicksort(vetorAux);
+        System.out.println("Quick Sort:");
+        for (int v5: vetorAux) {
+            System.out.print(v5 + " | ");
+        }
+        c = sort.retornaContagem();
+        System.out.println();
+        System.out.println("Interacoes: " + c.getInteracoes() + " Instrucoes: " + c.getInstrucoes());
+        System.out.println("--------------------------------------------------------");
+        sort.zeraContagem();
         ///////////////////////////////////////////////////////////////////////////////////
     }
 }
