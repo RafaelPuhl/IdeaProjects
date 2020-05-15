@@ -23,6 +23,5 @@ public class LeArquivo {
         for (String product : produtos ) {
             System.out.println(product);
         }
-
     }
 }

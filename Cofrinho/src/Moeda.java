@@ -1,4 +1,4 @@
-package POO;
+
 
 public class Moeda {
     private NomeMoeda nome;

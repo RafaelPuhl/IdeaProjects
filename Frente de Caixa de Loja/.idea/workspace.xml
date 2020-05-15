@@ -20,11 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8319b28d-3e6f-4ee9-84f0-ec2656ae2ea3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semestre 2/src/POO/ClassesAbstratas/Agencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semestre 2/src/POO/ClassesAbstratas/AppBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semestre 2/src/POO/ClassesAbstratas/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semestre 2/src/POO/ClassesAbstratas/ContaComLimite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semestre 2/src/POO/ClassesAbstratas/ContaRemunerada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semestre 2/src/SweetMari/Caixa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeArquivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeArquivo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Semestre 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Semestre 2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Semestre 2/src/AlgoritimoEstrutura1/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Semestre 2/src/AlgoritimoEstrutura1/Sorts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Semestre 2/src/com/company/MoveRover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Semestre 2/src/com/company/MoveRover.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Semestre 2/src/com/company/Rover.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Semestre 2/src/com/company/Rover.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Semestre 2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -146,6 +150,7 @@
       <workItem from="1587334505166" duration="16000" />
       <workItem from="1588113823559" duration="252000" />
       <workItem from="1588114095605" duration="19000" />
+      <workItem from="1589246648766" duration="76000" />
     </task>
     <servers />
   </component>
