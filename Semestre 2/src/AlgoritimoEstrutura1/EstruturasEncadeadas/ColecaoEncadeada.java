@@ -77,8 +77,6 @@ public class ColecaoEncadeada {
 
     @Override
     public String toString() {
-        return "ColecaoEncadeada{" +
-                "head=" + head +
-                '}';
+        return "" + head;
     }
 }

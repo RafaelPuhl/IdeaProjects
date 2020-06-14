@@ -4,16 +4,18 @@ public class App {
 
     public static void main(String[] args) {
         ColecaoEncadeada colecaoEncadeada  = new ColecaoEncadeada();
-        colecaoEncadeada.addFirst("primeiro");
-        colecaoEncadeada.addFirst("segundo");
-        colecaoEncadeada.addFirst("terceiro");
-        colecaoEncadeada.addFirst("quarto");
+        colecaoEncadeada.addFirst("A");
+        colecaoEncadeada.addFirst("B");
+        colecaoEncadeada.addFirst("C");
+        colecaoEncadeada.addFirst("D");
 
         System.out.println(colecaoEncadeada);
-        colecaoEncadeada.addFirst("quinto");
+        colecaoEncadeada.addFirst("E");
         System.out.println(colecaoEncadeada);
 
         colecaoEncadeada.remove(2);
+        System.out.println(colecaoEncadeada);
+        colecaoEncadeada.addLast("-A");
         System.out.println(colecaoEncadeada);
     }
 }
