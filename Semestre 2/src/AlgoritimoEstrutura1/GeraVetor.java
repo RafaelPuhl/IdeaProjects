@@ -19,7 +19,7 @@ class GeraVetor{
         int [] res = new int[nroEspacos];
         Random rnd = new Random();
         for (int i = 0; i < res.length ; i++) {
-            res[i] = rnd.nextInt(99) + 1;
+            res[i] = rnd.nextInt(9999) + 1;
         }
         return res;
     }
@@ -33,7 +33,7 @@ class GeraVetor{
                         (nroPares + nroImpares > 0)) {
             res = new int[nroPares + nroImpares];
             while ((contPar < nroPares) || (contImpar < nroImpares)) {
-                novoNum = rnd.nextInt(98)+1;
+                novoNum = rnd.nextInt(9998)+1;
                 if ((novoNum % 2 == 0) && (contPar < nroPares)) {
                     res[contPar+contImpar] = novoNum;
                     contPar++;

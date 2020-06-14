@@ -3,31 +3,38 @@ package com.company;
 public class Rover {
     private int x;
     private int y;
-    public Rover(){
+
+    public Rover() {
         x = 0;
         y = 0;
     }
-    public Rover(int xInicial, int yInicial){
+
+    public Rover(int xInicial, int yInicial) {
         x = xInicial;
         y = yInicial;
     }
-    public void moverNorte(){
+
+    public void moverNorte() {
         y++;
     }
-    public void moverSul(){
+
+    public void moverSul() {
         y--;
     }
-    public void moverLeste()
-    {
+
+    public void moverLeste() {
         x++;
     }
-    public void moverOeste(){
+
+    public void moverOeste() {
         x--;
     }
-    public String getPosicao(){
+
+    public String getPosicao() {
         return ("(" + x + "/" + y + ")");
     }
-    public void setPosicao(int xSet, int ySet){
+
+    public void setPosicao(int xSet, int ySet) {
         x = xSet;
         y = ySet;
     }
