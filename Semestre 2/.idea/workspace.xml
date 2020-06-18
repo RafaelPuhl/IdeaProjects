@@ -25,7 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/EstruturasEncadeadas/ColecaoEncadeada.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/NodeTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T1-AED" beforeDir="false" afterPath="$PROJECT_DIR$/../T1-AED" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -81,25 +84,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sss" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.AppRevision">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.EstruturasEncadeadas.App" />
       <module name="Semestre 2" />
@@ -114,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.ClassesAbstratasEInterfaces.App" />
+      <option name="MAIN_CLASS_NAME" value="POO.FuncoesLambda.App" />
       <module name="Semestre 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="POO.ClassesAbstratasEInterfaces.*" />
+          <option name="PATTERN" value="POO.FuncoesLambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,8 +131,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppPiggyBankExtra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.AppPiggyBankExtra" />
+    <configuration name="AppRevision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.FuncoesLambda.AppRevision" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.FuncoesLambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeNomeIdadeeNumeroPrompt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.LeNomeIdadeeNumeroPrompt" />
       <module name="Semestre 2" />
       <extension name="coverage">
         <pattern>
@@ -139,26 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.AppSort" />
-      <module name="Semestre 2" />
-      <option name="VM_PARAMETERS" value="-Xmx128M" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AlgoritimoEstrutura1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppSweetMari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SweetMari.AppSweetMari" />
+    <configuration name="iouashbdosa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.iouashbdosa" />
       <module name="Semestre 2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SweetMari.*" />
+          <option name="PATTERN" value="POO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AppPiggyBankExtra" />
-      <item itemvalue="Application.AppSweetMari" />
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.AppSort" />
       <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.LeNomeIdadeeNumeroPrompt" />
+      <item itemvalue="Application.iouashbdosa" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.AppRevision" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.AppPiggyBankExtra" />
-        <item itemvalue="Application.AppSort" />
+        <item itemvalue="Application.AppRevision" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.AppSweetMari" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.iouashbdosa" />
+        <item itemvalue="Application.LeNomeIdadeeNumeroPrompt" />
       </list>
     </recent_temporary>
   </component>
@@ -297,6 +301,22 @@
       <workItem from="1589499901282" duration="1136000" />
       <workItem from="1589501049848" duration="10000" />
       <workItem from="1589501277893" duration="161000" />
+      <workItem from="1592163681496" duration="538000" />
+      <workItem from="1592164569527" duration="777000" />
+      <workItem from="1592168361892" duration="2638000" />
+      <workItem from="1592175242157" duration="47000" />
+      <workItem from="1592175298456" duration="53000" />
+      <workItem from="1592259467513" duration="5077000" />
+      <workItem from="1592270384170" duration="71000" />
+      <workItem from="1592352605907" duration="51000" />
+      <workItem from="1592356637982" duration="20000" />
+      <workItem from="1592356667796" duration="24000" />
+      <workItem from="1592356734695" duration="6000" />
+      <workItem from="1592428048271" duration="1172000" />
+      <workItem from="1592432874530" duration="873000" />
+      <workItem from="1592438641001" duration="36000" />
+      <workItem from="1592439514448" duration="55000" />
+      <workItem from="1592439580483" duration="4086000" />
     </task>
     <servers />
   </component>
@@ -323,6 +343,10 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="53" key="#Plugins" timestamp="1592439623925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1592439623925" />
     <state x="6" y="0" width="797" height="824" key="#Project_Structure" timestamp="1589500897858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -335,10 +359,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="686" y="120" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1589066710405" />
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1589418701701">
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1592440368161">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589418701701" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592440368161" />
     <state x="83" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589500243698">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -347,30 +371,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585619793900" />
-    <state x="410" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583797871078">
+    <state x="272" y="139" key="FileChooserDialogImpl" timestamp="1592438649804">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="410" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1583797871078" />
-    <state x="272" y="139" key="FileChooserDialogImpl" timestamp="1592159656604">
+    <state x="272" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592438649804" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1592269700246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592159656604" />
-    <state width="1493" height="357" key="GridCell.Tab.0.bottom" timestamp="1592161859252">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592269700246" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1592269700246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="357" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592161859252" />
-    <state width="1493" height="357" key="GridCell.Tab.0.center" timestamp="1592161859252">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592269700246" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1592269700246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="357" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592161859252" />
-    <state width="1493" height="357" key="GridCell.Tab.0.left" timestamp="1592161859252">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592269700246" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1592269700246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="357" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592161859252" />
-    <state width="1493" height="357" key="GridCell.Tab.0.right" timestamp="1592161859252">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="357" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592161859252" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592269700246" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1587605636063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -387,10 +407,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587605636063" />
-    <state x="-6" y="0" width="834" height="824" key="SettingsEditor" timestamp="1589500163994">
+    <state x="-6" y="0" width="914" height="824" key="SettingsEditor" timestamp="1592356656989">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-6" y="0" width="834" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589500163994" />
+    <state x="-6" y="0" width="914" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592356656989" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585008247407">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -407,10 +427,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1585612368461" />
-    <state x="209" y="32" key="new project wizard" timestamp="1589501432473">
+    <state x="209" y="32" key="new project wizard" timestamp="1592437875340">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589501432473" />
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592437875340" />
     <state x="445" y="125" width="700" height="530" key="recent.locations.popup" timestamp="1585612357421">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -473,14 +493,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/AlgoritimoEstrutura1/EstruturasEncadeadas/Node.java</url>
-          <line>23</line>
-          <properties class="AlgoritimoEstrutura1.EstruturasEncadeadas.Node" method="setValue">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
