@@ -8,7 +8,7 @@ public class GenericTree {
     }
 
     public boolean add(String item, String father){
-        // TODO: 17/06/2020  
+        if(root.getElement() == null) root.setElement(item);
         return true;
     }
 
