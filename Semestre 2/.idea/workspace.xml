@@ -25,7 +25,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/AppTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/EstruturasEncadeadas/ColecaoEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/EstruturasEncadeadas/ColecaoEncadeada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/GenericTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/GenericTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/NodeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/NodeTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../T1-AED" beforeDir="false" afterPath="$PROJECT_DIR$/../T1-AED" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poo-pucrs" beforeDir="false" afterPath="$PROJECT_DIR$/../poo-pucrs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trabalho1-20201-we_work" beforeDir="false" afterPath="$PROJECT_DIR$/../trabalho1-20201-we_work" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +91,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../poo-pucrs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -102,7 +111,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App_1">
+  <component name="RunManager" selected="Application.AppTree">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.EstruturasEncadeadas.App" />
       <module name="Semestre 2" />
@@ -142,6 +151,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.Trees.AppTree" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlgoritimoEstrutura1.Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POO.App_1" />
       <module name="Semestre 2" />
@@ -155,33 +177,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="iouashbdosa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.iouashbdosa" />
-      <module name="Semestre 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="POO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.iouashbdosa" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.AppRevision" />
       <item itemvalue="Application.App_1" />
+      <item itemvalue="Application.AppTree" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppTree" />
         <item itemvalue="Application.App_1" />
         <item itemvalue="Application.AppRevision" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.iouashbdosa" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +335,10 @@
       <workItem from="1592527688913" duration="59000" />
       <workItem from="1592527853038" duration="13000" />
       <workItem from="1592528345841" duration="144000" />
+      <workItem from="1592529441686" duration="48000" />
+      <workItem from="1592595142914" duration="9000" />
+      <workItem from="1592665544962" duration="1670000" />
+      <workItem from="1592870648908" duration="3965000" />
     </task>
     <servers />
   </component>
@@ -384,10 +397,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592527730805" />
-    <state x="272" y="139" key="FileChooserDialogImpl" timestamp="1592528486088">
+    <state x="272" y="139" key="FileChooserDialogImpl" timestamp="1592668610870">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592528486088" />
+    <state x="272" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592668610870" />
     <state width="1478" height="2" key="GridCell.Tab.0.bottom" timestamp="1592519670797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

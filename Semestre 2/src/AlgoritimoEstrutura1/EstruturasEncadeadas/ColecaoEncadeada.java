@@ -42,7 +42,6 @@ public class ColecaoEncadeada {
         node.setNextNode(null);
     }
 
-
     public String getAt(Integer position) {
         try {
             return findNode(position).getValue();

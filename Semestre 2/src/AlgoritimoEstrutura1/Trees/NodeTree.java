@@ -8,6 +8,7 @@ public class NodeTree {
     private ArrayList<NodeTree> subTrees;
 
      public NodeTree(String element){
+         this.father = null;
          this.element = element;
          this.subTrees = new ArrayList<>();
      }

@@ -1,24 +1,43 @@
 package AlgoritimoEstrutura1.Trees;
 
 public class GenericTree {
-    private NodeTree root;
+    NodeTree refRoot;
 
-    public GenericTree(){
-        this.root.setFather(null);
+    public GenericTree() {
+        this.refRoot = null;
     }
 
-    public boolean add(String item, String father){
-        if(root.getElement() == null) root.setElement(item);
-        return true;
+    public boolean add(String item, String father) {
+        NodeTree node = new NodeTree(item);
+        NodeTree nodeAux = null;
+        boolean result = false;
+
+        if (father == null) {
+            if (this.refRoot != null) {
+                node.addSubTree(this.refRoot);
+                this.refRoot.setFather(node);
+            }
+            this.refRoot = node;
+            result = true;
+        } else {
+            nodeAux = searchNodeRef(father, this.refRoot);
+            if (nodeAux != null) {
+                nodeAux.addSubTree(node);
+                node.setFather(nodeAux);
+                result = true;
+            }
+        }
+        return result;
     }
 
-    private NodeTree searchNodeRef(String item, NodeTree origem){
-        if(origem == null) return null;
-        if(item.equals(origem.getElement())){
-            return origem;
-        }else{
-            for (int i = 0; i < origem.contSubTree() ; i++) {
-                searchNodeRef(item, origem.getSubTree(i));
+    private NodeTree searchNodeRef(String element, NodeTree target) {
+        if (target == null) return null;
+        if (element.equals(target.getElement())) {
+            return target;
+        } else {
+            for (int i = 0; i < target.contSubTree(); i++) {
+                NodeTree aux = searchNodeRef(element, target.getSubTree(i));
+                if (aux != null) return aux;
             }
         }
         return null;
