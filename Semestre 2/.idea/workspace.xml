@@ -25,14 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/AppTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/POO/JavaFX/ExemploTelaLogin_GRID.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/EstruturasEncadeadas/ColecaoEncadeada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/EstruturasEncadeadas/ColecaoEncadeada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/AppTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/AppTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/GenericTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/GenericTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/NodeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/NodeTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../T1-AED" beforeDir="false" afterPath="$PROJECT_DIR$/../T1-AED" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../poo-pucrs" beforeDir="false" afterPath="$PROJECT_DIR$/../poo-pucrs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../trabalho1-20201-we_work" beforeDir="false" afterPath="$PROJECT_DIR$/../trabalho1-20201-we_work" afterDir="false" />
     </list>
@@ -103,7 +103,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -112,19 +112,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.AppTree">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.EstruturasEncadeadas.App" />
-      <module name="Semestre 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AlgoritimoEstrutura1.EstruturasEncadeadas.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POO.FuncoesLambda.App" />
       <module name="Semestre 2" />
@@ -177,20 +164,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExemploTelaLogin_GRID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="POO.JavaFX.ExemploTelaLogin_GRID" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POO.JavaFX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.AppRevision" />
       <item itemvalue="Application.App_1" />
       <item itemvalue="Application.AppTree" />
+      <item itemvalue="Application.ExemploTelaLogin_GRID" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AppTree" />
+        <item itemvalue="Application.ExemploTelaLogin_GRID" />
         <item itemvalue="Application.App_1" />
         <item itemvalue="Application.AppRevision" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.App (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +338,15 @@
       <workItem from="1592529441686" duration="48000" />
       <workItem from="1592595142914" duration="9000" />
       <workItem from="1592665544962" duration="1670000" />
-      <workItem from="1592870648908" duration="3965000" />
+      <workItem from="1592870648908" duration="5536000" />
+      <workItem from="1592879545860" duration="638000" />
+      <workItem from="1592957350512" duration="315000" />
+      <workItem from="1592964411258" duration="118000" />
+      <workItem from="1593037766630" duration="7728000" />
+      <workItem from="1593293451693" duration="9000" />
+      <workItem from="1593310346719" duration="20000" />
+      <workItem from="1593392016059" duration="708000" />
+      <workItem from="1593475341660" duration="5867000" />
     </task>
     <servers />
   </component>
@@ -373,10 +381,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="6" y="0" width="797" height="824" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589500897858" />
-    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589337699755">
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592874912064">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589337699755" />
+    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592874912064" />
     <state x="686" y="120" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589066710405">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -397,46 +405,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592527730805" />
-    <state x="272" y="139" key="FileChooserDialogImpl" timestamp="1592668610870">
+    <state x="272" y="139" key="FileChooserDialogImpl" timestamp="1593310364246">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592668610870" />
-    <state width="1478" height="2" key="GridCell.Tab.0.bottom" timestamp="1592519670797">
+    <state x="272" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593310364246" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state width="1478" height="2" key="GridCell.Tab.0.center" timestamp="1592519670797">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state width="1478" height="2" key="GridCell.Tab.0.left" timestamp="1592519670797">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state width="1478" height="2" key="GridCell.Tab.0.right" timestamp="1592519670797">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state width="1478" height="2" key="GridCell.Tab.1.bottom" timestamp="1592519670797">
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state width="1478" height="2" key="GridCell.Tab.1.center" timestamp="1592519670797">
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state width="1478" height="2" key="GridCell.Tab.1.left" timestamp="1592519670797">
+    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state width="1478" height="2" key="GridCell.Tab.1.right" timestamp="1592519670797">
+    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1593484123374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592519670797" />
-    <state x="-6" y="0" width="914" height="824" key="SettingsEditor" timestamp="1592356656989">
+    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
+    <state x="-6" y="0" width="914" height="824" key="SettingsEditor" timestamp="1593475819471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-6" y="0" width="914" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592356656989" />
+    <state x="-6" y="0" width="914" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593475819471" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585008247407">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -469,10 +477,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="540" y="153" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592443871973" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586009811308">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593479423944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586009811308" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593479423944" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -33,13 +33,11 @@ public class NodeTree {
          this.subTrees.add(nodeTree);
     }
 
-    public boolean removeSubTree(NodeTree nodeTree){
-        for (NodeTree node : this.subTrees) {
-            if (node == nodeTree){
+    public boolean removeSubTree(int nodeTree){
+            if (nodeTree < subTrees.size()){
                 this.subTrees.remove(nodeTree);
                 return true;
             }
-        }
         return false;
     }
 
