@@ -46,17 +46,17 @@ public class GenericTree {
         return null;
     }
 
-    public boolean removeBranch(String item){
+    public boolean removeBranch(String item) {
 
-        if (item.equals(this.refRoot.getElement())){
+        if (item.equals(this.refRoot.getElement())) {
             this.refRoot = null;
             return true;
         } else {
             NodeTree aux;
             aux = searchNodeRef(item, this.refRoot);
             aux = aux.getFather();
-            for (int i =0; i< aux.contSubTree(); i++){
-                if (aux.getSubTree(i).getElement().equals(item)){
+            for (int i = 0; i < aux.contSubTree(); i++) {
+                if (aux.getSubTree(i).getElement().equals(item)) {
                     aux.removeSubTree(i);
                     return true;
                 }
@@ -65,33 +65,33 @@ public class GenericTree {
         }
     }
 
-    public ArrayList<String> traversalPre(){
+    public ArrayList<String> traversalPre() {
         ArrayList<String> list = new ArrayList<>();
         searchTreePre(refRoot, list);
         return list;
     }
 
-    private void searchTreePre(NodeTree reference, ArrayList<String> list){
-        if(reference == null) return;
+    private void searchTreePre(NodeTree reference, ArrayList<String> list) {
+        if (reference == null) return;
         list.add(reference.getElement());
         for (int i = 0; i < reference.contSubTree(); i++) {
             searchTreePre(reference.getSubTree(i), list);
         }
-        return ;
+        return;
     }
 
-    public ArrayList<String> traversalPos(){
+    public ArrayList<String> traversalPos() {
         ArrayList<String> list = new ArrayList<>();
         searchTreePos(refRoot, list);
         return list;
     }
 
-    private void searchTreePos(NodeTree reference, ArrayList<String> list){
-        if(reference == null) return;
+    private void searchTreePos(NodeTree reference, ArrayList<String> list) {
+        if (reference == null) return;
         for (int i = 0; i < reference.contSubTree(); i++) {
             searchTreePos(reference.getSubTree(i), list);
         }
         list.add(reference.getElement());
-        return ;
+        return;
     }
 }

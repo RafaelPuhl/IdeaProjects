@@ -25,12 +25,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="831095f4-693f-44da-bf03-3f789e8e6531" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/POO/JavaFX/ExemploTelaLogin_GRID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/Business/ServiceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/Menu/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/Menu/MenuLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/Menu/ReaderHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/entities/Barber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Barbearia/src/entities/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E2FundamentosSilvia/InteractiveSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E2FundamentosSilvia/ReaderHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E2FundamentosSilvia/RecursionSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E2FundamentosSilvia/RecursionTerms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T2-Tries--AED1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cofrinho/src/AppPiggyBankExtra.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cofrinho/src/AppPiggyBankExtra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Frente de Caixa de Loja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/rafae.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/rafae.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/AppTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/AppTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/GenericTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/GenericTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/NodeTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/Trees/NodeTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AlgoritimoEstrutura1/AppSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/POO/JavaFX/ExemploTelaLogin_GRID.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../T1-AED" beforeDir="false" afterPath="$PROJECT_DIR$/../T1-AED" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../poo-pucrs" beforeDir="false" afterPath="$PROJECT_DIR$/../poo-pucrs" afterDir="false" />
@@ -99,7 +112,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -108,49 +121,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="POO.JavaFX" />
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppTree">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.FuncoesLambda.App" />
-      <module name="Semestre 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="POO.FuncoesLambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppRevision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="POO.FuncoesLambda.AppRevision" />
-      <module name="Semestre 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="POO.FuncoesLambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AlgoritimoEstrutura1.Trees.AppTree" />
-      <module name="Semestre 2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AlgoritimoEstrutura1.Trees.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecursionTerms">
     <configuration name="App_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="POO.App_1" />
       <module name="Semestre 2" />
@@ -177,23 +152,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InteractiveSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E2FundamentosSilvia.InteractiveSubString" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E2FundamentosSilvia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InteractiveTerms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E2FundamentosSilvia.InteractiveTerms" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E2FundamentosSilvia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionTerms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E2FundamentosSilvia.RecursionTerms" />
+      <module name="Semestre 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E2FundamentosSilvia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.AppRevision" />
       <item itemvalue="Application.App_1" />
-      <item itemvalue="Application.AppTree" />
       <item itemvalue="Application.ExemploTelaLogin_GRID" />
+      <item itemvalue="Application.InteractiveTerms" />
+      <item itemvalue="Application.InteractiveSubString" />
+      <item itemvalue="Application.RecursionTerms" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppTree" />
+        <item itemvalue="Application.RecursionTerms" />
+        <item itemvalue="Application.InteractiveTerms" />
+        <item itemvalue="Application.InteractiveSubString" />
         <item itemvalue="Application.ExemploTelaLogin_GRID" />
         <item itemvalue="Application.App_1" />
-        <item itemvalue="Application.AppRevision" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -347,11 +373,34 @@
       <workItem from="1593310346719" duration="20000" />
       <workItem from="1593392016059" duration="708000" />
       <workItem from="1593475341660" duration="5867000" />
+      <workItem from="1593553834336" duration="1239000" />
+      <workItem from="1593556115141" duration="636000" />
+      <workItem from="1597503240219" duration="443000" />
+      <workItem from="1599264498007" duration="1851000" />
+      <workItem from="1599607845914" duration="17000" />
+      <workItem from="1600484951368" duration="694000" />
+      <workItem from="1600486022226" duration="206000" />
+      <workItem from="1603492262859" duration="2722000" />
+      <workItem from="1603936274097" duration="5000" />
+      <workItem from="1604016133338" duration="1000" />
+      <workItem from="1604766099729" duration="95000" />
+      <workItem from="1604766227992" duration="136000" />
+      <workItem from="1604766379816" duration="3900000" />
+      <workItem from="1604770637863" duration="565000" />
+      <workItem from="1604775224124" duration="386000" />
+      <workItem from="1604785278285" duration="615000" />
+      <workItem from="1604794138112" duration="2056000" />
+      <workItem from="1604797434447" duration="6000" />
+      <workItem from="1604856879288" duration="115000" />
+      <workItem from="1605470903822" duration="15000" />
+      <workItem from="1606859067667" duration="624000" />
+      <workItem from="1615236180339" duration="57000" />
+      <workItem from="1615407951391" duration="296000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -371,116 +420,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/IdeaProjects" />
     </ignored-roots>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="53" key="#Plugins" timestamp="1592439623925">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1592439623925" />
-    <state x="6" y="0" width="797" height="824" key="#Project_Structure" timestamp="1589500897858">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="6" y="0" width="797" height="824" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589500897858" />
-    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592874912064">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592874912064" />
-    <state x="686" y="120" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589066710405">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="686" y="120" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1589066710405" />
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1592440368161">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592440368161" />
-    <state x="83" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589500243698">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="83" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1589500243698" />
-    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585619793900">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="566" y="297" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1585619793900" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1592527730805">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592527730805" />
-    <state x="272" y="139" key="FileChooserDialogImpl" timestamp="1593310364246">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="272" y="139" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593310364246" />
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1593484123374">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593484123374" />
-    <state x="-6" y="0" width="914" height="824" key="SettingsEditor" timestamp="1593475819471">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="-6" y="0" width="914" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593475819471" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585008247407">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1585008247407" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586476961544">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586476961544" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588390640222">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1588390640222" />
-    <state width="600" height="424" key="javadoc.popup" timestamp="1585612368461">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1585612368461" />
-    <state x="209" y="32" key="new project wizard" timestamp="1592525662812">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1592525662812" />
-    <state x="445" y="125" width="700" height="530" key="recent.locations.popup" timestamp="1585612357421">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="445" y="125" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1585612357421" />
-    <state x="475" y="40" key="refactoring.ChangeSignatureDialog" timestamp="1585096945924">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="475" y="40" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585096945924" />
-    <state x="540" y="153" key="run.anything.popup" timestamp="1592443871973">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="540" y="153" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1592443871973" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593479423944">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1593479423944" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,7 +4,7 @@ public class AppSort {
     public static void main(String[] args) {
         new GeraVetor();
         Sorts sort = new Sorts();
-        int[] vetor = GeraVetor.geraVetorAleatorio(10000);
+        int[] vetor = GeraVetor.geraVetorAleatorio(5);
         int[] vetorAux;
         ContagemInstru c;
         System.out.println("Vetor Aleatorio: ");

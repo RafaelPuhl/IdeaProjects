@@ -15,7 +15,7 @@ public class AppTree {
         System.out.println("Traversal Pre");
         list = genericTree.traversalPre();
 
-        for (String str:list ) {
+        for (String str : list) {
             System.out.print(str);
         }
 
@@ -23,7 +23,7 @@ public class AppTree {
         System.out.println("Traversal Pos");
         list = genericTree.traversalPos();
 
-        for (String str:list ) {
+        for (String str : list) {
             System.out.print(str);
         }
         genericTree.removeBranch("C");
@@ -32,7 +32,7 @@ public class AppTree {
         System.out.println("Item C removido");
         list = genericTree.traversalPre();
 
-        for (String str:list ) {
+        for (String str : list) {
             System.out.print(str);
         }
 

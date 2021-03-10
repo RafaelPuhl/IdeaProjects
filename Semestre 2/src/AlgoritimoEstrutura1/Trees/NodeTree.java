@@ -7,11 +7,11 @@ public class NodeTree {
     private String element;
     private ArrayList<NodeTree> subTrees;
 
-     public NodeTree(String element){
-         this.father = null;
-         this.element = element;
-         this.subTrees = new ArrayList<>();
-     }
+    public NodeTree(String element) {
+        this.father = null;
+        this.element = element;
+        this.subTrees = new ArrayList<>();
+    }
 
     public NodeTree getFather() {
         return father;
@@ -29,23 +29,23 @@ public class NodeTree {
         this.element = element;
     }
 
-    public void addSubTree(NodeTree nodeTree){
-         this.subTrees.add(nodeTree);
+    public void addSubTree(NodeTree nodeTree) {
+        this.subTrees.add(nodeTree);
     }
 
-    public boolean removeSubTree(int nodeTree){
-            if (nodeTree < subTrees.size()){
-                this.subTrees.remove(nodeTree);
-                return true;
-            }
+    public boolean removeSubTree(int nodeTree) {
+        if (nodeTree < subTrees.size()) {
+            this.subTrees.remove(nodeTree);
+            return true;
+        }
         return false;
     }
 
-    public NodeTree getSubTree(int n){
+    public NodeTree getSubTree(int n) {
         return this.subTrees.get(n);
     }
 
-    public int contSubTree(){
-         return this.subTrees.size();
+    public int contSubTree() {
+        return this.subTrees.size();
     }
 }
