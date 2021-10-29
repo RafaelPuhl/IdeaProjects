@@ -1,5 +1,5 @@
 package Business;
 
-public enum Services_Type {
+public enum ServiceType {
     CORTE, BARBA, LIMPEZA_DE_PELE, MAQUINA_GERAL
 }

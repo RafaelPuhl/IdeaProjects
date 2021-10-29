@@ -1,2 +1,4 @@
-package Menu;public class ReaderHelper {
+package Menu;
+
+public class ReaderHelper {
 }

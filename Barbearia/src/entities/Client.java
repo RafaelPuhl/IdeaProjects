@@ -7,4 +7,12 @@ public class Client extends Person {
         super(cpf, name);
         this.point = 0;
     }
+
+    public int getPoint() {
+        return point;
+    }
+
+    public void addPoint(int point) {
+        this.point += point;
+    }
 }
