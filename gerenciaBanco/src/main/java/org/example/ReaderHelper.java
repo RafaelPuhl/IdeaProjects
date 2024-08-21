@@ -1,5 +1,7 @@
 package org.example;
 
+//classe responsavel por leituras de entrada de teclado
+
 import java.util.Scanner;
 import java.util.regex.Pattern;
 

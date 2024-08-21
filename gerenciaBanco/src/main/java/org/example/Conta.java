@@ -1,5 +1,7 @@
 package org.example;
 
+//classe responsavel por contar dados da conta
+
 public class Conta {
 
     private int numero;

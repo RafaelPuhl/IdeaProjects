@@ -1,5 +1,5 @@
 package org.example;
-
+//imports
 import java.util.ArrayList;
 import java.util.Scanner;
 import static org.example.ReaderHelper.readCPF;
@@ -7,25 +7,25 @@ import static org.example.ReaderHelper.readDouble;
 import static org.example.ReaderHelper.readInteger;
 import static org.example.ReaderHelper.readName;
 
-public class Main {
-
+public class Main {//classe principal
+    //declaração de algumas variaveis acessadas em todos os metodos
     public static Scanner in = new Scanner(System.in);
     public static ArrayList<Conta> contas = new ArrayList<>();
     public static final String ANSI_YELLOW = "\u001B[33m";
     public static final String ANSI_RESET = "\u001B[0m";
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {// metodo main
         int op;
         do {
             Menus.menuPrincipal();
             op = readInteger(in);
             switch (op){
                 case 1:
-                    abrirConta();
+                    abrirConta();//chamada metodo abrir conta
                     break;
                 case 2:
                     System.out.println("Entre com o CPF do cliente: ");
-                    String cpf = readCPF(in);
+                    String cpf = readCPF(in);//chamada metodo importado da classe ReaderHelper
                     manipularConta(cpf);
                     break;
                 case 3:
@@ -43,7 +43,7 @@ public class Main {
         System.out.println(ANSI_YELLOW + "Programa finalizado com sucesso!" + ANSI_RESET);
     }
 
-
+//abaixo metodos
     public static void abrirConta(){
         System.out.println("Entre com o CPF do cliente: ");
         String cpf = readCPF(in);
@@ -103,7 +103,5 @@ public class Main {
                 }
             }
         }
-
-
     }
 }
